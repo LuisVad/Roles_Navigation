@@ -1,5 +1,5 @@
 {
-  "name": "roles-navigation",
+  "name": "jwt-project",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,7 @@
   "dependencies": {
     "jwt-decode": "^4.0.0",
     "vue": "^2.7.7",
-    "vue-router": "^2.8.1"
+    "vue-router": "^3.6.5"
   },
   "devDependencies": {
     "@vitejs/plugin-legacy": "^2.0.0",
